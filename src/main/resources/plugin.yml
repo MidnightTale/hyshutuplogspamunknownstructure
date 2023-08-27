@@ -1,0 +1,6 @@
+name: hyshutuplogspamunknownstructure
+version: '${version}'
+main: xyz.hynse.hyshutuplogspamunknownstructure.Hyshutuplogspamunknownstructure
+api-version: '1.20'
+authors: [MidnightTale_]
+website: hynse.xyz
